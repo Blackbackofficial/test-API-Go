@@ -1,0 +1,2 @@
+package configs
+state_addr = ":8080"
