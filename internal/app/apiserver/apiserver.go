@@ -6,6 +6,7 @@ import (
 	"io"
 	"net/http"
 )
+
 type APIServer struct {
 	config *Config
 	logger *logrus.Logger
